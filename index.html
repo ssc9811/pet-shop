@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- vanilla js 로 web3 사용하기 위해 필요 -->
+  <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+
+  <title>Document</title>
+</head>
+<style>
+  @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+  * {
+    font-family: "Spoqa Han Sans Neo", "sans-serif";
+  }
+</style>
+
+<body class="container">
+
+  <header>
+    애완동물 입양하기
+  </header>
+
+
+  <div class='pet-list'>
+    <div class='pet-list-box'>
+      <img class='pet-list-image' src='./images/boxer.jpeg' />
+      <div class='pet-list-text'>
+        <div>
+          이름 : 코코
+        </div>
+        <div>
+          나이 : 2살
+        </div>
+        <div>
+          견종 : 복서
+        </div>
+      </div>
+      <div class='pet-list-button' id="boxer" >
+        입양하기
+      </div>
+    </div>
+    <div class='pet-list-box'>
+      <img class='pet-list-image' src='./images/french-bulldog.jpeg' />
+      <div class='pet-list-text'>
+        <div>
+          이름 : 콩이
+        </div>
+        <div>
+          나이 : 2살
+        </div>
+        <div>
+          견종 : 프렌치 불도그
+        </div>
+      </div>
+      <div class='pet-list-button' id="bulldog"'>
+        입양하기
+      </div>
+    </div>
+    <div class='pet-list-box'>
+      <img class='pet-list-image' src='./images/golden-retriever.jpeg' />
+      <div class='pet-list-text'>
+        <div>
+          이름 : 보리
+        </div>
+        <div>
+          나이 : 2살
+        </div>
+        <div>
+          견종 : 골든 리트리버
+        </div>
+      </div>
+      <div class='pet-list-button' id='retriever' onclick="buttonClick()">
+        입양하기
+      </div>
+    </div>
+    <div class='pet-list-box'>
+      <img class='pet-list-image' src='./images/scottish-terrier.jpeg' />
+      <div class='pet-list-text'>
+        <div>
+          이름 : 초코
+        </div>
+        <div>
+          나이 : 2살
+        </div>
+        <div>
+          견종 : 스코티시 테리어
+        </div>
+      </div>
+      <div class='pet-list-button' id='terrier' onclick="buttonClick()">
+        입양하기
+      </div>
+    </div>
+  </div>
+
+  <script src="./index.js"></script>
+</body>
+
+</html>

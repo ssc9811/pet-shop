@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  padding-top: 35px;
+  font-size: 36px;
+}
+
+.pet-list {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pet-list-image {
+  width: 230px;
+  height: 230px;
+}
+
+.pet-list-box {
+  border: solid 1px #f7f7f7;
+  padding: 10px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  margin: 15px;
+}
+
+.pet-list-text {
+  padding: 15px 0px;
+}
+
+.pet-list-button {
+  border: solid 1px #f7f7f7;
+  text-align: center;
+  border-radius: 12px;
+  padding: 9px;
+  font-size: 16px;
+  width: 120px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.nft-button-none {
+  padding: 20px;
+  width: 100%;
+}
+
+.nft-button {
+  padding: 15px;
+  border: solid 1px #f7f7f7;
+  width: 200px;
+  text-align: center;
+  margin-top: 30px;
+  border-radius: 15px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+}
