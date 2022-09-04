@@ -1,4 +1,4 @@
-# Pet-Shop 강의자료
+# Pet-Shop 코딩 따라하기
 
 ## 준비 사항
 
@@ -8,7 +8,7 @@
 
 <br>
 
-## Remix IDE 스마트 컨트렉트 작성
+## Remix IDE를 활용한 스마트 컨트랙트 배포
 
 > 웹 브라우저에서 Remix IDE 사이트 (https://remix.ethereum.org) 열기
 >
@@ -40,7 +40,7 @@
 
 <br>
 
-## Web으로 실행시키기
+## Web에서 Pet-Shop 실행
 
 > 미리 작성된 CodePen 파일 열기 (https://codepen.io/pugoxjbx-the-animator/pen/dyePYYY)
 >
