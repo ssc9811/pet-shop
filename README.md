@@ -24,7 +24,7 @@
 >
 > (Compliler+ 메뉴 아래의 선택창에서 0.4.17버전로 변경)
 >
-> 푸른색 버튼(Compile Adoption.sol) 을 클릭하여 실행 파일 만들기
+> <img width="200" alt="스크린샷 2022-09-04 오후 3 03 56" src="https://user-images.githubusercontent.com/39263149/188302884-4d7e8c97-892c-419c-b902-e253ce8d63ac.png"> Complie Adoption.sol(파일명은 자유) 버튼을 클릭하여 실행 파일 만들기
 >
 > 좌측 <img width="25" alt="스크린샷 2022-09-04 오후 3 03 56" src="https://user-images.githubusercontent.com/39263149/188299825-f7acbe8a-51b8-48ba-870f-3a9d833aac64.png"> 아이콘을 클릭하고
 > <img width="200" alt="스크린샷 2022-09-04 오후 2 58 16" src="https://user-images.githubusercontent.com/39263149/188299752-4e3138b7-4145-4a6a-ab3d-418e5f091c22.png">
