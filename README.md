@@ -2,9 +2,9 @@
 
 ## 준비 사항
 
-> MetaMask 계정 생성
+> [MetaMask 계정 생성 - 메타마스크 설치 참고](https://github.com/WJHwa/mim-token)
 >
-> Ropsten ETH
+> [Ropsten ETH - 토큰 만들어보기 참고](https://github.com/WJHwa/mim-token)
 
 <br>
 
